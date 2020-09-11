@@ -3,6 +3,8 @@ A very small Vue.Js app that pulls data from the cryptocompare.com API and displ
 
 The relevant get request is made using Axios.
 
+![image](https://github.com/SamuelScotts/Crypto_Prices/blob/master/Crypto_Prices.png)
+
 Notes: 
 - Not all files have been uploaded to allow this app to work.
 - The API request is handled in the front-end, so the API key has been removed.
